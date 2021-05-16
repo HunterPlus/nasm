@@ -1,4 +1,4 @@
-;void bzero(void* addr, long unsigned len);
+;void my_bzero(void* addr, long unsigned len);
 ;rdi----void* addr
 ;rsi----long unsigned len
 
