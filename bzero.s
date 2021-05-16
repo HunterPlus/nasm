@@ -1,4 +1,6 @@
 ;void bzero(void* addr, long unsigned len);
+;rdi----void* addr
+;rsi----long unsigned len
 
 section .text
     global my_bzero
